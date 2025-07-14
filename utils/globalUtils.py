@@ -1,6 +1,6 @@
 from aiohttp import ClientSession
 
-from utils.constants import DEVELOPPER_ID, LOG_BOT
+from constants import DEVELOPPER_ID, LOG_BOT
 
 async def log_me(text : str, scope : str = "ResExamBot") -> None:
     """

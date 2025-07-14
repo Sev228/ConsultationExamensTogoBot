@@ -5,7 +5,7 @@
 - ✅ BAC (général et technique)
 - ✅ Probatoire
 
-Ce projet interroge automatiquement le site officiel [de l'office du Bac](https://officedubactogo.net) pour récupérer les résultats en temps réel, sans stocker de données personnelles.
+Ce petit projet interroge automatiquement le site officiel [de l'office du Bac](https://officedubactogo.net) pour récupérer les résultats en temps réel, sans stocker de données personnelles.
 
 ---
 
@@ -86,11 +86,12 @@ python3 main.py
 ```
 ---
 
-## 🔐 Mentions légales
+## 🛡️ Mentions légales
 
-* Ce bot est **indépendant** du gouvernement togolais.
-* Les résultats sont issus des site https://officedubactogo.net/ et https://resultats.gouv.tg/#/ 
+* Ce bot est **indépendant** et **non affilié** du gouvernement togolais.
+* Les résultats sont issus directement des sites https://officedubactogo.net/ et https://resultats.gouv.tg/#/ 
 * **Aucune donnée personnelle n’est stockée** ou exploitée à des fins commerciales.
+* Ce bot agit comme un assistant de consultation **sans modifier ni intercepter les résultats**.
 ---
 
 ## 🤝 Contribution
@@ -102,7 +103,21 @@ Les contributions sont les bienvenues ! N'hésitez pas à :
 - Soumettre des pull requests
 
 ---
+## 📲 Version en ligne
+Une version fonctionnelle du bot est déjà déployée et disponible sur Telegram :
+
+#### 👉 [Accéder au bot sur Telegram](https://t.me/resultats_examens_tg_bot)
+
+🔹 Cette version est prête à l’emploi : vous pouvez y voir les intéractions.
+
+🔹 Elle prend en charge les examens : BAC, BEPC, Probatoire
+
+🔹 Disponible en français, avec navigation par bouton.
 
 ## 📄 Licence
 
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
+Ce projet est distribué sous la licence `MIT`.
+
+© 2025 - Sev[404] 
+
+Les résultats d'examen restent la propriété des sites cités plus haut.

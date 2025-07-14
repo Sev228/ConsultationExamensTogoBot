@@ -103,6 +103,12 @@ Les contributions sont les bienvenues ! N'hésitez pas à :
 - Soumettre des pull requests
 
 ---
+
+## 📫 Contact
+- Email: [sevsmart228@gmail.com](mailto:sevsmart228@gmail.com)
+- Telegram: [DM TELEGRAM](https://t.me/AKAZARSIS)
+
+---
 ## 📲 Version en ligne
 Une version fonctionnelle du bot est déjà déployée et disponible sur Telegram :
 
